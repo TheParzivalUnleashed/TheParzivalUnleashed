@@ -157,7 +157,9 @@ Probably everything is counted ◝(ᵔᵕᵔ)◜</br>
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Batchfile   14 mins         ███████████████████████░░   92.41 %
+Other       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+Python      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 ```
 
 <!--END_SECTION:waka-->
