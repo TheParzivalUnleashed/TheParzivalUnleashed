@@ -157,7 +157,9 @@ Probably everything is counted ◝(ᵔᵕᵔ)◜</br>
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown   1 hr 27 mins    ████████████████████████▒   97.04 %
+AsciiDoc   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
 <!--END_SECTION:waka-->
