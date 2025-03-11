@@ -157,9 +157,9 @@ Probably everything is counted ◝(ᵔᵕᵔ)◜</br>
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hr 58 mins    ████████████████████████▒   97.81 %
-AsciiDoc   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Markdown   2 hrs 33 mins   ████████████████████████▓   98.30 %
+AsciiDoc   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
