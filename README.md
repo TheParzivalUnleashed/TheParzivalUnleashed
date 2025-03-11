@@ -15,7 +15,7 @@
 /) /)</br> 
 ( ᵔ ᵕ ᵔ )</br> 
 / づ づ ~ ♡ 𝐏 𝐞 𝐫 𝐬 𝐨 𝐧 𝐚 𝐥 𝐢 𝐭 𝐲</br> 
-•Introvert</br> 
+•Omnivert</br> 
 •Perfectionist</br> 
 •Artiste<br>
 •Logical</br> 
