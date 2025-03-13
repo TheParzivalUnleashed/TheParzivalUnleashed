@@ -150,10 +150,11 @@ Probably everything is counted ◝(ᵔᵕᵔ)◜</br>
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   4 hrs 36 mins   ████████████████████████▒   97.67 %
-Other      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-AsciiDoc   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Markdown   5 hrs 11 mins   ███████████████████████▒░   93.15 %
+Python     15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+Other      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+AsciiDoc   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
