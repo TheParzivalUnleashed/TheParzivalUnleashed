@@ -150,9 +150,8 @@ Probably everything is counted ◝(ᵔᵕᵔ)◜</br>
 <!--START_SECTION:waka-->
 
 ```txt
-Python     47 mins         ████████████▓░░░░░░░░░░░░   50.05 %
-Markdown   44 mins         ███████████▓░░░░░░░░░░░░░   47.03 %
-Other      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Markdown   45 mins         ███████████████████████▓░   94.54 %
+Python     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
 ```
 
 <!--END_SECTION:waka-->
