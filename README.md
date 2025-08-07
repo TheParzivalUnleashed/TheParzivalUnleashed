@@ -150,7 +150,8 @@ Probably everything is counted ◝(ᵔᵕᵔ)◜</br>
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   1 hr            ██████████████████████░░░   88.55 %
+Text     7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
 ```
 
 <!--END_SECTION:waka-->
